@@ -4,12 +4,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruviemehta&label=Profile+Views&color=brightgreen)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dhruvi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhruviee/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Dhruvi-blue?style=flat&logo=twitter)](https://twitter.com/dhru_mehtaa)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-dhruviemehta-black?style=flat&logo=github)](https://github.com/dhruviemehta)
----
-<h5>📧 Email: dhruvimehta228@gmail.com </h5>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Dhruvi-lightgrey?style=flat&logo=internet-explorer)](https://dhruvi-mehta.s3.ap-south-1.amazonaws.com/index.html)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dhruvi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhruviee/)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Dhruvi-blue?style=flat&logo=twitter)](https://twitter.com/dhru_mehtaa)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-dhruviemehta-black?style=flat&logo=github)](https://github.com/dhruviemehta)  
 
+---
+
+<h5>📧 Email: dhruvimehta228@gmail.com </h5>
 
 ## 📊 GitHub Stats  
 
